@@ -11,7 +11,7 @@
         $x = 5;
         $y = 4;
         echo "x= $x";
-        echo "<br> y=".$y;
+        echo "<br> y= $y";
         echo "<br> x+y=".$x + $y;
     ?>
 
