@@ -6,7 +6,7 @@
     <title>Index</title>
 </head>
 <body>
-    <h1>Página Inicial</h2>
+    <h1>Página Inicial</h1>
     <?php
         $nome = $_POST["nome"];
         $senha = $_POST["senha"]; 
