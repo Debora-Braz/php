@@ -13,8 +13,6 @@
 
         if($nome == "debora" and $senha == "123"){
             header("Location: "."trabsim.php");
-        }elseif($nome == "bernardo" and $senha == "123"){
-            header("Location: "."trabsim.php");
         }elseif($nome == "maria" and $senha == "123"){
             header("Location: "."trabmedio.php");
         }else{
